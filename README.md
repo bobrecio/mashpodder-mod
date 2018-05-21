@@ -20,7 +20,7 @@ I'm using the iPod because 1) I don't want to fill up the limited amount of stor
 
 I figured that if I could download the episodes en-masse, then I could store them on the iPod. I started by using BashPodder and found out that most of the podcasts thate i'm interested in have mp3 file names that do not sort properly - they are simpley the name of the episode, or the filename is a coded id that doesn't even indicate the name of the episode. In looking at the RSS feed, I noticed that the season (itunes:season) and episode (itunes:episode) numbers are indicated in the XML.
 
-Linux is one of my hobbies and I do like to have all my music handy; therefore, I was excited to come across bashpodder and then mashpodder.
+Linux is one of my hobbies. I've been using it since 1996. But I'm no an expert. And I only learn things as I need to know them. I'm not fluent with BASH or AWK or SED or XML. Therefore, I was excited to come across bashpodder - and then mashpodder.
 
 Thanks!
 -Bob.
