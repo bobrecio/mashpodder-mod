@@ -7,7 +7,7 @@ It requires 3 files:
 2. parse_rss.xsl
 3. mp.conf
 
-Additionally, when you the .m3u is created it is named the same as the podcast directory.
+Additionally, when the .m3u is created it is named the same as the podcast directory.
 
 ### Usage...
 The same as the MashPodder instructions.
