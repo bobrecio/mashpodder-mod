@@ -22,8 +22,12 @@ I figured that if I could download the episodes en-masse, then I could store the
 
 Linux is one of my hobbies. I've been using it since 1996. But I'm no an expert. And I only learn things as I need to know them. I'm not fluent with BASH or AWK or SED or XML. Therefore, I was excited to come across bashpodder - and then mashpodder.
 
+### What's different? ###
+The parse_rss.XSL file returns more information: URL, PodcastTitle, Season+Episode ("s00e00"), EpisodeTitle. Then, in the .sh file we parse the lines and make a filename in the format of "s00e00_EpisodeTitle.mp3".
+
 Thanks!
 -Bob.
 
 ### to-do...
 1. Deal with episodes that are missing episode and/or season numbers.
+2. Are there any other nodes that have good information??
